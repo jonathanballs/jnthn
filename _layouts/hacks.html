@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<style>
+div.hack {
+  margin-bottom: 3em;
+  min-height: 10em;
+}
+
+.hack-screenshot {
+  width: 30%;
+  display: inline-block;
+  float: left;
+}
+
+.hack-screenshot img {
+  width: 100%;
+  border-radius: 5%;
+}
+
+.hack-meta {
+  width: 68%;
+  height: 10em;
+  display: inline-block;
+  float: right;
+}
+
+.hack-title {
+  margin-top: 0;
+  font-weight: bold;
+}
+
+
+</style>
+
+{% for hack in site.data.hacks %}
+<div class="hack">
+  <div class="hack-screenshot">
+    <a href="{{ hack.link }}"><img src="/assets/{{ hack.screenshot }}" /></a>
+  </div>
+  <div class="hack-meta">
+    <p class="hack-title">{{ hack.title }}</p>
+    <p class="hack-description">{{ hack.description }}</p>
+  </div>
+</div>
+{% endfor %}
+
