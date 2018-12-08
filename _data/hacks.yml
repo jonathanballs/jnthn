@@ -1,5 +1,5 @@
 -   title: The Stranded
-    description: A top down multiplayer zombie shooter built with node, sockets and pixie.js
+    description: A top down multiplayer zombie shooter built with node, sockets and pixie.js. It's fairly unstable and choppy compared to the more recent games but was possibly the hardest to make due to my inexperience at the time.
     hackathon:
         name: HackEssex
         date: 2016-04-30
@@ -8,7 +8,7 @@
     screenshot: stranded.png
 
 -   title: DubRace
-    description: A 3d music visualiser built with babylon.js
+    description: A 3d music visualiser built with babylon.js. This was the first time I did HackNotts. This was the first bit of 3D programming that I had done.
     hackathon:
         name: HackNotts
         date: 2016-11-26
@@ -73,11 +73,11 @@
     #repo_link: https://github.com/pedsm/Vikings-of-Christiania
 
 -   title: The Stranded 2
-    description: A top down multiplayer zombie shooter built with node, sockets and pixie.js
+    description: A top down multiplayer zombie shooter built with node, sockets and p5.js. Two and half years after our first hackathon, Pedro and I attempted to create a sequel to our original game. It's more stable, faster and more fun to play. A good example of how much we had improved.
     hackathon:
         name: HackNotts
         date: 2018-11-24
     link: http://stranded2.jnthn.uk
-    repo_link: https://github.com/pedsm/the-stranded
+    repo_link: https://github.com/jonathanballs/thestranded2
     screenshot: stranded2.png
 

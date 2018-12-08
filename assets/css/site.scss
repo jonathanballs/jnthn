@@ -47,11 +47,6 @@ body {
     margin-bottom: 3em;
     min-height: 10em;
 
-    .hack-title {
-        margin-top: 0;
-        font-weight: bold;
-    }
-
     .hack-screenshot {
         width: 30%;
         display: inline-block;
@@ -68,6 +63,19 @@ body {
         height: 10em;
         display: inline-block;
         float: right;
+
+        .hack-title {
+            margin-top: 0;
+            font-weight: bold;
+        }
+
+        .icon {
+            width: 1.25em;
+        }
+
+        a.repo-link {
+            text-decoration: none;
+        }
     }
 }
 
