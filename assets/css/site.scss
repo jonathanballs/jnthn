@@ -2,7 +2,10 @@
 ---
 
 // Accounts for scroll bar
-html { margin-left: calc(100vw - 100%); }
+html {
+    margin-left: calc(100vw - 100%);
+    background-color: #f6f6f6;
+}
 body {
     font-family: "Courier New", Courier, monospace;
 }
