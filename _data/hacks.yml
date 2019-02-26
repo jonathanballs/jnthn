@@ -16,13 +16,6 @@
     repo_link: https://github.com/jonathanballs/dubrace
     screenshot: dubrace.png
 
-#-   title: DeepHack
-    #description: Machine learning all hackathon projects from devpost
-    #hackathon:
-        #name: HackEssex
-        #date: 2017-03-03
-    #link: http://deephack.jnthn.uk
-    #repo_link: https://github.com/pedsm/deepHack
 
 #-   title: PintNow
     #description: Rate your nearest pubs
@@ -71,6 +64,15 @@
         #date: 2017-04-07
     #link: http://quickserve.jnthn.uk
     #repo_link: https://github.com/pedsm/Vikings-of-Christiania
+    #
+-   title: DeepHack
+    description: Machine learning all hackathon projects from devpost
+    hackathon:
+        name: HackEssex
+        date: 2017-03-03
+    link: http://deephack.jnthn.uk
+    repo_link: https://github.com/pedsm/deepHack
+    screenshot: deephack.png
 
 -   title: The Stranded 2
     description: A top down multiplayer zombie shooter built with node, sockets and p5.js. Two and half years after our first hackathon, Pedro and I attempted to create a sequel to our original game. It's more stable, faster and more fun to play. A good example of how much we had improved.
