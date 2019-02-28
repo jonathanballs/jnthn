@@ -1,0 +1,4 @@
+-   title: Logmaster
+    description: A log viewer for linux built with Gtk and D with has very large log file viewing, highlighting, following, kubernetes support, stdin support, color schemes and more.
+    repo_link: https://github.com/jonathanballs/logmaster
+    screenshot: logmaster.png

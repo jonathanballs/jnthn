@@ -2,16 +2,17 @@
 layout: default
 ---
 
+
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 30em;">
   {{ content }}
 </div>
 
 <div class="padding" style="height: 4em;"></div>
 
-{% for hack in site.data.hacks %}
+{% for hack in site.data.projects %}
 <div class="hack">
   <div class="hack-screenshot">
-    <a href="{{ hack.link }}" target="_blank"><img src="/assets/images/{{ hack.screenshot }}" /></a>
+    <a href="{{ hack.repo_link }}" target="_blank"><img src="/assets/images/{{ hack.screenshot }}" /></a>
   </div>
   <div class="hack-meta">
     <p class="hack-title">{{ hack.title }}</p>
@@ -21,9 +22,6 @@ layout: default
     <a class="repo-link" href="{{ hack.repo_link }}" target="_blank">
       <img class="icon" src="/assets/icons/github.svg" alt="github logo">
     </a>
-
-    <!--Hackathon name-->
-    <img src="https://img.shields.io/badge/{{ hack.hackathon.name }}-{{ hack.hackathon.date | replace: '-', '--' }}-lightgrey.svg" alt="github logo">
   </div>
 </div>
 {% endfor %}
