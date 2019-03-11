@@ -9,3 +9,6 @@ layout: default
 [Twitter](https://twitter.com/jonnyballs_)
 
 [PGP](/pgp)
+
+[jonatahnballs@protonmail.com](mailto:jonathanballs@protonmail.com)
+
