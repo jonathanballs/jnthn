@@ -4,7 +4,6 @@
 layout: default
 ---
 
-<meta name="google" content="notranslate">
 <div style="margin-left: auto; margin-right: auto; width: 500px;">
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
