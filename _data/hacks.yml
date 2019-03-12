@@ -7,6 +7,15 @@
     repo_link: https://github.com/pedsm/the-stranded
     screenshot: stranded.png
 
+-   title: Double Trouble
+    description: A two player lane game written at a 36 hour hackathon in Barcelona. This project put us in the final 5 finalists out of over 100 teams.
+    hackathon:
+        name: HackUPC
+        date: 2016-10-07
+    link: http://doubletrouble.jnthn.uk
+    repo_link: https://github.com/jonathanballs/doubletrouble
+    screenshot: doubletrouble.png
+
 -   title: DubRace
     description: A 3d music visualiser built with babylon.js. This was the first time I did HackNotts. This was the first bit of 3D programming that I had done.
     hackathon:
@@ -40,14 +49,6 @@
         #date: 2016-04-30
     #link: http://quickserve.jnthn.uk
     #repo_link: https://github.com/pedsm/the-stranded
-
-#-   title: Double Trouble
-    #description: A two player lane game written at a 36 hour hackathon in barcelona. This project put us in the final 5 finalists out of over 100 teams.
-    #hackathon:
-        #name: HackUPC
-        #date: 2016-10-07
-    #link: http://doubletrouble.jnthn.uk
-    #repo_link: https://github.com/jonathanballs/doubletrouble
 
 #-   title: Phocks
     #description: Stock price watcher. Sends you text messages when your stocks go past a certain threshold
