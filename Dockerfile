@@ -1,6 +1,6 @@
-FROM bretfisher/jekyll-serve
-ADD . /site
-RUN gem install bundler
+FROM jekyll/jekyll
+ADD . /srv/jekyll
 
+CMD jekyll serve
 EXPOSE 4000
 
