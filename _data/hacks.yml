@@ -58,14 +58,6 @@
     #link: http://phocks.jnthn.uk
     #repo_link: https://github.com/jonathanballs/phocks
 
-#-   title: Vikings of Christiania
-    #description: A multiplayer boat fighting game written in typescript
-    #hackathon:
-        #name: CopenHacks
-        #date: 2017-04-07
-    #link: http://quickserve.jnthn.uk
-    #repo_link: https://github.com/pedsm/Vikings-of-Christiania
-    #
 -   title: DeepHack
     description: Machine learning all hackathon projects from devpost
     hackathon:
@@ -74,6 +66,15 @@
     link: http://deephack.jnthn.uk
     repo_link: https://github.com/pedsm/deepHack
     screenshot: deephack.png
+
+-   title: Vikings of Christiania
+    description: A multiplayer ship fighting game written at a hackathon in Copehagen hosted by Microsoft. This was the first time that I used Typescript and I liked it so much I ended up using for most of the following hackathons.
+    hackathon:
+        name: CopenHacks
+        date: 2017-04-07
+    link: http://vikings.jnthn.uk
+    repo_link: https://github.com/pedsm/Vikings-of-Christiania
+    screenshot: vikings.png
 
 -   title: The Stranded 2
     description: A top down multiplayer zombie shooter built with node, sockets and p5.js. Two and half years after our first hackathon, Pedro and I attempted to create a sequel to our original game. It's more stable, faster and more fun to play. A good example of how much we had improved.
