@@ -59,7 +59,7 @@
     #repo_link: https://github.com/jonathanballs/phocks
 
 -   title: DeepHack
-    description: Machine learning all hackathon projects from devpost
+    description: Machine learning and analysis of hackathon projects from DevPost. We started by scraping every project and showing trends and statistics in the data. We then took it a step further by using tensorflow to predict a projects success based on its metadata and created our own "DeepHack" score
     hackathon:
         name: HackEssex
         date: 2017-03-03
